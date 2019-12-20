@@ -1,7 +1,7 @@
 TODO list API
 
 
-Create a web application issuing the REST API using Java version 8 or this version and the Spring framework. 
+Create a web application issuing the REST API using Java version 8  and the Spring framework. 
 "My Matters" - list of tasks you have to do - model users, tasks, archive of tasks completed.
 
 Code contains: 
