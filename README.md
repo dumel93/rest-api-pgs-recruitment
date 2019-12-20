@@ -37,7 +37,7 @@ Code contains:
 
     To be able to run this project, you need the following
 
-    Fork/Clone
+    Fork/Clone: https://github.com/dumel93/rest-api-pgs-recruitment.git
     create database -pgs f.e. in MySQLWorkbench.
     
     spring.jpa.hibernate.ddl-auto=create-drop
