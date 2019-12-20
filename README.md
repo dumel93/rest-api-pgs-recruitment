@@ -27,7 +27,7 @@ Code contains:
  API Reference and Resource Types
  
  ![Alt text](/taskAPI.png)
-  ![Alt text](/userAPI.png)
+![alt text](https://github.com/dumel93/rest-api-pgs-recruitment/blob/master/userAPi.png)
   
 
 
