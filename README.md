@@ -26,6 +26,11 @@ Code contains:
   
  API Reference and Resource Types
  
+ ![Alt text](/taskAPI.png)
+  
+ ![Alt text](/userAPI.png)
+
+ 
  Get Started
  
      To build TODO list API, I used list of standard libraries to get the server up and running. So, the first one is Spring Boot.
@@ -58,3 +63,6 @@ Code contains:
      all password are bcrypted in db 
   
     To be able to test TODO list API endpoints, you can use front-end tools such as Api Tester, Postman, etc.
+    
+    Authors
+    Damian Krawczyk
