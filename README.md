@@ -26,7 +26,8 @@ Code contains:
   
  API Reference and Resource Types
  
- ![Alt text](/userAPI.png)
+ ![Alt text](/taskAPI.png)
+  ![Alt text](/userAPI.png)
   
 
 
