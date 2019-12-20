@@ -33,4 +33,4 @@ insert  into role values (2,'ROLE_USER');
 
 
 INSERT INTO `tasks` VALUES (1,'dokladnie umyc kota',false ,'umyc kota',3),(2,'Trolololo',true ,'isc do dentysty',3);
-INSERT INTO `tasks` VALUES (3,'dokladnie umyc kota',true ,'umyc kota',2),(4,'Trolololo',true ,'isc do dentysty',2);
+INSERT INTO `tasks` VALUES (3,'dokladnie umyc psa',true ,'umyc psa',2),(4,'dokladnie umyc samochod',true ,'umyc samochod',2);
